@@ -1,0 +1,1 @@
+The file resumen_latex contains a summary of the work and the files present in this folder.
